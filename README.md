@@ -101,7 +101,7 @@ test_loss, test_acc = model.evaluate(test_generator)
 print(f"Test Accuracy: {test_acc*100:.2f}%")
 ```
 
-###vUsage
+### Usage
 Once the model is trained, you can use it to make predictions on new images:
 
 ```
